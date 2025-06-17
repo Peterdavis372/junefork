@@ -49,7 +49,7 @@ arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 
 [YouTube-Extended]
-enabled = false
+enabled = true
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
@@ -60,7 +60,7 @@ version = "19.47.53"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [RVX-Anddea]
-enabled = true
+enabled = false
 app-name = "YouTube"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 patches-source = "andeea/revanced-patches"
